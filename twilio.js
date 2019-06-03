@@ -6,9 +6,9 @@
 function TwilioApp() {
   // Get Twilio credentials
   // I've hidden my accountId and authToken. Replace the empty strings with your info. 
-  this.accountId = "";
-  this.authToken = "";
-  this.fromNumber = "+12013808120";
+  this.accountId = "AC76dad3c9c0c9dcf04b8e00338920814a";
+  this.authToken = "6af2eee2461045108f2f397d39443edd";
+  this.fromNumber = "+13035006870";
 
   // Reference JQuery objects
   this.messageList = $(".message-list");
